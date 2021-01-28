@@ -81,18 +81,6 @@
      <LENGTH>32</LENGTH>
     </item>
    </TPOOL>
-   <I18N_TPOOL>
-    <item>
-     <LANGUAGE>D</LANGUAGE>
-     <TEXTPOOL>
-      <item>
-       <ID>R</ID>
-       <ENTRY>es enthält ein dynpro und dazu texte</ENTRY>
-       <LENGTH>70</LENGTH>
-      </item>
-     </TEXTPOOL>
-    </item>
-   </I18N_TPOOL>
    <LXE_TEXTS>
     <item>
      <SOURCE_LANG>enUS</SOURCE_LANG>
