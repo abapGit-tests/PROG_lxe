@@ -1,0 +1,18 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SRT4/Z_SCREEN 1904/DTXT 00001, maxlen=12
+msgid "English Text"
+msgstr ""
+
+#: SRH4/Z_SCREEN 1904/DTXT 00001, maxlen=60
+msgid "Screen with texts"
+msgstr ""
+
+#: RPT4/Z_SCREEN/TITLE, maxlen=70
+msgid "contains a screen + screen texts"
+msgstr ""

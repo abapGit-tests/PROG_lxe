@@ -81,53 +81,6 @@
      <LENGTH>32</LENGTH>
     </item>
    </TPOOL>
-   <LXE_TEXTS>
-    <item>
-     <SOURCE_LANG>enUS</SOURCE_LANG>
-     <TARGET_LANG>deDE</TARGET_LANG>
-     <CUSTMNR>999999</CUSTMNR>
-     <OBJTYPE>RPT4</OBJTYPE>
-     <OBJNAME>Z_SCREEN</OBJNAME>
-     <TEXT_PAIRS>
-      <LXE_PCX_S1>
-       <TEXTKEY>TITLE</TEXTKEY>
-       <S_TEXT>contains a screen + screen texts</S_TEXT>
-       <T_TEXT>es enthält ein dynpro und dazu texte</T_TEXT>
-       <UNITMLT>70</UNITMLT>
-      </LXE_PCX_S1>
-     </TEXT_PAIRS>
-    </item>
-    <item>
-     <SOURCE_LANG>enUS</SOURCE_LANG>
-     <TARGET_LANG>deDE</TARGET_LANG>
-     <CUSTMNR>999999</CUSTMNR>
-     <OBJTYPE>SRH4</OBJTYPE>
-     <OBJNAME>Z_SCREEN                                1904</OBJNAME>
-     <TEXT_PAIRS>
-      <LXE_PCX_S1>
-       <TEXTKEY>DTXT      00001</TEXTKEY>
-       <S_TEXT>Screen with texts</S_TEXT>
-       <T_TEXT>Dynpro mit Texten</T_TEXT>
-       <UNITMLT>60</UNITMLT>
-      </LXE_PCX_S1>
-     </TEXT_PAIRS>
-    </item>
-    <item>
-     <SOURCE_LANG>enUS</SOURCE_LANG>
-     <TARGET_LANG>deDE</TARGET_LANG>
-     <CUSTMNR>999999</CUSTMNR>
-     <OBJTYPE>SRT4</OBJTYPE>
-     <OBJNAME>Z_SCREEN                                1904</OBJNAME>
-     <TEXT_PAIRS>
-      <LXE_PCX_S1>
-       <TEXTKEY>DTXT      00001</TEXTKEY>
-       <S_TEXT>English Text</S_TEXT>
-       <T_TEXT>DeutscherTxt</T_TEXT>
-       <UNITMLT>12</UNITMLT>
-      </LXE_PCX_S1>
-     </TEXT_PAIRS>
-    </item>
-   </LXE_TEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
